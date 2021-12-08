@@ -134,3 +134,5 @@ Soon....
 # Demo
 
 ![](http://8.209.98.139:9000/video-app/sedvt-4qxno.gif)
+
+<img src="http://8.209.98.139:9000/video-app/sedvt-4qxno.gif" alt="show" />
