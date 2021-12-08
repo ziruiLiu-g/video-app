@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "tencent.cloud",
+      "type": "com.video.utils.TencentCloudProperties",
+      "sourceType": "com.video.utils.TencentCloudProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "tencent.cloud.secret-id",
+      "type": "java.lang.String",
+      "sourceType": "com.video.utils.TencentCloudProperties"
+    },
+    {
+      "name": "tencent.cloud.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.video.utils.TencentCloudProperties"
+    }
+  ],
+  "hints": []
+}

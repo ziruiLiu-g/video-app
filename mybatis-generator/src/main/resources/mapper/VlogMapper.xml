@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.video.mapper.VlogMapper">
+  <resultMap id="BaseResultMap" type="com.video.pojo.Vlog">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="VARCHAR" property="id" />
+    <result column="vloger_id" jdbcType="VARCHAR" property="vlogerId" />
+    <result column="url" jdbcType="VARCHAR" property="url" />
+    <result column="cover" jdbcType="VARCHAR" property="cover" />
+    <result column="title" jdbcType="VARCHAR" property="title" />
+    <result column="width" jdbcType="INTEGER" property="width" />
+    <result column="height" jdbcType="INTEGER" property="height" />
+    <result column="like_counts" jdbcType="INTEGER" property="likeCounts" />
+    <result column="comments_counts" jdbcType="INTEGER" property="commentsCounts" />
+    <result column="is_private" jdbcType="INTEGER" property="isPrivate" />
+    <result column="created_time" jdbcType="TIMESTAMP" property="createdTime" />
+    <result column="updated_time" jdbcType="TIMESTAMP" property="updatedTime" />
+  </resultMap>
+</mapper>

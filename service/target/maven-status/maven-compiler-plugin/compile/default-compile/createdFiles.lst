@@ -1,0 +1,12 @@
+com\video\service\FansService.class
+com\video\service\impl\FansServiceImpl.class
+com\video\base\RabbitMQConfig.class
+com\video\base\BaseInfoProperties.class
+com\video\service\impl\MsgServiceImpl.class
+com\video\service\impl\UserServiceImpl.class
+com\video\service\impl\VlogServiceImpl.class
+com\video\service\impl\CommentServiceImpl.class
+com\video\service\CommentService.class
+com\video\service\VlogService.class
+com\video\service\UserService.class
+com\video\service\MsgService.class

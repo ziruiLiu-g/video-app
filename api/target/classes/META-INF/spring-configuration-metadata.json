@@ -1,0 +1,11 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "minio",
+      "type": "java.lang.String",
+      "description": "Description for minio."
+    }
+  ],
+  "hints": []
+}

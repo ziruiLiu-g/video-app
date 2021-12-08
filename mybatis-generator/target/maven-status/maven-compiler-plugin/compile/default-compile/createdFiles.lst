@@ -1,0 +1,12 @@
+com\video\mapper\VlogMapper.class
+com\video\pojo\Fans.class
+com\video\mapper\CommentMapper.class
+com\video\pojo\MyLikedVlog.class
+com\video\mapper\MyLikedVlogMapper.class
+com\video\mapper\UsersMapper.class
+com\video\mapper\FansMapper.class
+com\video\mybatis\utils\GeneratorDisplay.class
+com\video\pojo\Vlog.class
+com\video\pojo\Users.class
+com\video\my\mapper\mapper\MyMapper.class
+com\video\pojo\Comment.class

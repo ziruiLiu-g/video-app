@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: video-app-nacos
+  cloud:
+    nacos:
+      config:
+        server-addr: 172.26.151.167:8848   # nacos 所在的地址
+#        server-addr: 8.209.98.139:8848  # dev
+        file-extension: yaml

@@ -1,0 +1,16 @@
+com\video\model\Stu.class
+com\video\bo\CommentBO.class
+com\video\bo\RegistLoginBO.class
+com\video\pojo\Fans.class
+com\video\mo\MessageMO.class
+com\video\vo\FansVO.class
+com\video\vo\IndexVlogVO.class
+com\video\pojo\MyLikedVlog.class
+com\video\vo\VlogerVO.class
+com\video\vo\CommentVO.class
+com\video\vo\UsersVO.class
+com\video\bo\VlogBO.class
+com\video\pojo\Vlog.class
+com\video\pojo\Users.class
+com\video\pojo\Comment.class
+com\video\bo\UpdatedUserBO.class

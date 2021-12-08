@@ -1,0 +1,16 @@
+com\video\controller\HelloController.class
+com\video\Knife4jConfig.class
+com\video\controller\VlogController.class
+com\video\Application.class
+com\video\MinIOConfig.class
+com\video\controller\MsgController.class
+com\video\controller\UserController.class
+com\video\controller\PassportController.class
+META-INF\spring-configuration-metadata.json
+com\video\intercepter\UserTokenInterceptor.class
+com\video\RabbitMQConsumer.class
+com\video\intercepter\PassportInterceptor.class
+com\video\controller\CommentController.class
+com\video\controller\FileController.class
+com\video\controller\FansController.class
+com\video\InterceptorConfig.class

@@ -1,0 +1,10 @@
+com\video\mapper\VlogMapper.class
+com\video\repository\MessageRepository.class
+com\video\mapper\CommentMapperCustom.class
+com\video\my\MyMapper.class
+com\video\mapper\CommentMapper.class
+com\video\mapper\MyLikedVlogMapper.class
+com\video\mapper\UsersMapper.class
+com\video\mapper\FansMapper.class
+com\video\mapper\VlogMapperCustom.class
+com\video\mapper\FansMapperCustom.class
