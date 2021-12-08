@@ -132,4 +132,8 @@ Soon....
 
 
 # Demo
-<img src="http://8.209.98.139:9000/video-app/g25sg-707mm.gif" alt="show" width="200px"/>
+
+<img src="https://github.com/ziruiLau/video-app/blob/master/img/h0szq-vz8co.gif" alt="show" width="500px"/>
+
+
+<img src="https://github.com/ziruiLau/video-app/blob/master/img/ihbgq-eobu4.gif" alt="show" width="500px"/>
