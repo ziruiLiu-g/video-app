@@ -1,6 +1,6 @@
 # Video-app
 
-An TikTok-like app
+An TikTok likes app
 
 
 # Middleware and db
